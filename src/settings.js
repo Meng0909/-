@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: 'hrsaas',
+  title: 'iHRM后台登录系统',
 
   /**
    * @type {boolean} true | false
